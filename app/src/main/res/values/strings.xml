@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipApp</string>
+    <string name="cost">Enter tip value</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="normal">Normal (NoTip) </string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="great_18">Great (18%)</string>
+    <string name="ok_15"> Ok (15%)</string>
+    <string name="result"> %s</string>
+</resources>
